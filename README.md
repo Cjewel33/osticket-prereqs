@@ -104,7 +104,8 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <h3 align="center"> Download and install MySQL, Agree with any terms and agreements up until you get to the password portion. Here you can create a username and password for the database that you'll be using to store the Ticket Information used in osTicket. 
 </h3>
 <p>
-  <img src="https://i.imgur.com/IVpLg40.png"75%" width="100%"/>
+  <img width="790" alt="Screenshot 2025-03-11 121744" src="https://github.com/user-attachments/assets/9049aa12-6542-4a79-a134-a3461d6fd55b" />
+>
 <br/>
   <img src="https://i.imgur.com/zdhWXNx.png" height="75%" width="100%" />
 </p>
