@@ -71,7 +71,8 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <p>
 <h3 align="center">Download the PHP manager file, and agree with all the terms. We've now downloaded the PHP manager into our operating system.</h3>
 <p>
-       <img src="https://imgur.com/a/08gvCNK.png" height="75%" width="100%" />
+       <img width="860" alt="Screenshot 2025-03-11 114627" src="https://github.com/user-attachments/assets/e3a4db57-9c32-486a-8543-259c0c3a7d41" />
+
 </p>
 <br/>
 <h3 align="center">Install Rewrite Module</h3>
