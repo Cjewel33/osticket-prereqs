@@ -218,14 +218,14 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <h3 align="center">Continue Setting up osTicket in the browser (click Continue)</h3>
 <br />
 <p>
-	Name Helpdesk.
+	Name your Helpdesk. (Not shown but you will have to enter a name for your helpdesk and an email after hitting continue)
 </p>
 <p>
 	Default email (receives email from customers):
 </p>
 <p>
 	<img src="https://i.imgur.com/rvMvlNC.png" height="75%" width="100%" />
-	<img src="https://i.imgur.com/YszhIpl.png" height="75%" width="100%" />
+	
 </p>
 <br />
 <br />
