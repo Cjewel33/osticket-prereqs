@@ -191,7 +191,8 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	To: C:\inetpub\wwwroot\osTicket\include\ost-config.php:
 </p>
 <p>
-	<img src="https://i.imgur.com/TEw71SD.png" height="75%" width="100%" />
+	<img width="773" alt="image (1)" src="https://github.com/user-attachments/assets/8ea6b13c-dc9a-409f-aeb4-e78463dde598"/>
+ />
 </p>
 <br />
 <br />
